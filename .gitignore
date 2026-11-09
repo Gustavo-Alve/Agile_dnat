@@ -82,3 +82,5 @@ yarn-debug.log*
 !/storage/.keep
 /public/uploads
 
+anotacoes.txt
+
